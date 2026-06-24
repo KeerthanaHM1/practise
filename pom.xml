@@ -55,7 +55,7 @@
 		<archive>
 			<manifest>
 				<addClasspath>true</addClasspath>
-				<mainClass>com.devops</mainClass>
+				<mainClass>com.devops.App</mainClass>
 			</manifest>
 		</archive>
 	  </configuration>
