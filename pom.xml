@@ -52,12 +52,12 @@
           <artifactId>maven-jar-plugin</artifactId>
           <version>3.0.2</version>
 	  <configuration>
-		<archieve>
+		<archive>
 			<manifest>
 				<addClasspath>true</addClasspath>
 				<mainClass>com.devops</mainClass>
 			</manifest>
-		</archieve>
+		</archive>
 	  </configuration>
         </plugin>
         <plugin>
